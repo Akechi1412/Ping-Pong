@@ -1,0 +1,4 @@
+﻿  Pong.cpp
+E:\WorkSpace\SFML\Game-Pong\Pong\Pong\Pong.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\WorkSpace\SFML\Game-Pong\Pong\Pong\Pong.cpp(23): warning C4715: 'randomAngleBall': not all control paths return a value
+  Pong.vcxproj -> E:\WorkSpace\SFML\Game-Pong\Pong\Debug\Pong.exe
